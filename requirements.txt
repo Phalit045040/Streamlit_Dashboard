@@ -1,7 +1,7 @@
-matplotlib
-pandas
-plotly
-streamlit
 numpy
+pandas
+matplotlib
 seaborn
-pyplot
+plotly
+statsmodels
+streamlit
